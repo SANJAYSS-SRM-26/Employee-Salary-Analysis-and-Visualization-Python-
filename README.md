@@ -13,3 +13,12 @@ Main Menu Options: Interact with the script using the provided menu options to d
 
 # Feel free to fork, contribute, or utilize this script for analyzing and visualizing employee salary data!
 
+# Bar Graph Representation 
+![Employee Salary](https://github.com/SANJAYSS-SRM-26/Employee-Salary-Analysis-and-Visualization-Python-/blob/main/Barrep%20(2).png)
+
+# Line Graph Representation
+![Employee Salary](https://github.com/SANJAYSS-SRM-26/Employee-Salary-Analysis-and-Visualization-Python-/blob/main/Linerep%20(2).png)
+
+# Sample Data
+![Employee Salary](https://github.com/SANJAYSS-SRM-26/Employee-Salary-Analysis-and-Visualization-Python-/blob/main/SAMPLEDATA%20(2).png)
+
